@@ -1,7 +1,7 @@
 {
   "proxies": [
     {
-      "name": "ARISTA",
+      "name": "A90",
       "type": "vless",
       "server": "www.speedtest.net",
       "port": 2096,
@@ -14,7 +14,7 @@
       "udp": true
     },
     {
-      "name": "ARISTA",
+      "name": "A98",
       "type": "vless",
       "server": "www.speedtest.net",
       "port": 2096,
@@ -27,7 +27,7 @@
       "udp": true
     },
     {
-      "name": "ARISTA⏰",
+      "name": "A54⏰",
       "type": "vless",
       "server": "95.164.18.29",
       "port": 2096,
@@ -40,7 +40,7 @@
       "udp": true
     },
     {
-      "name": "ARISTA",
+      "name": "A76",
       "type": "vless",
       "server": "185.59.218.168",
       "port": 443,
@@ -55,7 +55,7 @@
       "udp": true
     },
     {
-      "name": "ARISTA",
+      "name": "A43",
       "type": "vless",
       "server": "www.meter.net",
       "port": 443,
@@ -68,7 +68,7 @@
       "udp": true
     },
     {
-      "name": "ARISTA",
+      "name": "A7654",
       "type": "vless",
       "server": "104.26.3.186",
       "port": 443,
@@ -83,7 +83,7 @@
       "udp": true
     },
     {
-      "name": "ARISTA",
+      "name": "A876",
       "type": "vless",
       "server": "141.11.203.139",
       "port": 443,
@@ -98,7 +98,7 @@
       "udp": true
     },
     {
-      "name": "ARISTA",
+      "name": "A866",
       "type": "vless",
       "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
       "port": 2096,
@@ -111,7 +111,7 @@
       "udp": true
     },
     {
-      "name": "ARISTA",
+      "name": "A5433",
       "type": "vless",
       "server": "78.159.131.107",
       "port": 443,
@@ -124,7 +124,7 @@
       "udp": true
     },
     {
-      "name": "ARISTA",
+      "name": "A7544",
       "type": "vless",
       "server": "104.18.26.90",
       "port": 443,
@@ -137,7 +137,7 @@
       "udp": true
     },
     {
-      "name": "ARISTA",
+      "name": "A98776",
       "type": "vless",
       "server": "www.speedtest.net",
       "port": 2096,
