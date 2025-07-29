@@ -1,0 +1,153 @@
+{
+  "proxies": [
+    {
+      "name": "ARISTA",
+      "type": "vless",
+      "server": "www.speedtest.net",
+      "port": 2096,
+      "uuid": "6ff4852a-de6e-423e-8561-3131e63120c6",
+      "tls": true,
+      "network": "ws",
+      "servername": "638879176706545587.amsterdam-prx-dnraaal.info",
+      "alpn": [],
+      "skip-cert-verify": false,
+      "udp": true
+    },
+    {
+      "name": "ARISTA",
+      "type": "vless",
+      "server": "www.speedtest.net",
+      "port": 2096,
+      "uuid": "b976b2aa-945e-43e5-bc58-36d77d3a9124",
+      "tls": true,
+      "network": "ws",
+      "servername": "638879176706477448.amsterdam-prx-dnraaal.info",
+      "alpn": [],
+      "skip-cert-verify": false,
+      "udp": true
+    },
+    {
+      "name": "ARISTA⏰",
+      "type": "vless",
+      "server": "95.164.18.29",
+      "port": 2096,
+      "uuid": "9e769ce1-34be-4e3f-b0a6-823f30eb8f69",
+      "tls": true,
+      "network": "ws",
+      "servername": "",
+      "alpn": [],
+      "skip-cert-verify": false,
+      "udp": true
+    },
+    {
+      "name": "ARISTA",
+      "type": "vless",
+      "server": "185.59.218.168",
+      "port": 443,
+      "uuid": "401374e6-df77-41fb-f638-dad8184f175b",
+      "tls": true,
+      "network": "grpc",
+      "servername": "pqh23v4.hiddendom.shop",
+      "alpn": [
+        "h2"
+      ],
+      "skip-cert-verify": false,
+      "udp": true
+    },
+    {
+      "name": "ARISTA",
+      "type": "vless",
+      "server": "www.meter.net",
+      "port": 443,
+      "uuid": "1b368bf6-5aac-413c-a77c-229fb984d5ae",
+      "tls": true,
+      "network": "ws",
+      "servername": "mAXNetvIpAp-cLOuD76.netKh3.siTe",
+      "alpn": [],
+      "skip-cert-verify": false,
+      "udp": true
+    },
+    {
+      "name": "ARISTA",
+      "type": "vless",
+      "server": "104.26.3.186",
+      "port": 443,
+      "uuid": "401374e6-df77-41fb-f638-dad8184f175b",
+      "tls": true,
+      "network": "grpc",
+      "servername": "pqh31v6.hiddendom.shop",
+      "alpn": [
+        "h2"
+      ],
+      "skip-cert-verify": false,
+      "udp": true
+    },
+    {
+      "name": "ARISTA",
+      "type": "vless",
+      "server": "141.11.203.139",
+      "port": 443,
+      "uuid": "401374e6-df77-41fb-f638-dad8184f175b",
+      "tls": true,
+      "network": "grpc",
+      "servername": "pqh23v5.hiddendom.shop",
+      "alpn": [
+        "h2"
+      ],
+      "skip-cert-verify": false,
+      "udp": true
+    },
+    {
+      "name": "ARISTA",
+      "type": "vless",
+      "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
+      "port": 2096,
+      "uuid": "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
+      "tls": true,
+      "network": "ws",
+      "servername": "G9j2KeHn0E.gItI5.oRg",
+      "alpn": [],
+      "skip-cert-verify": false,
+      "udp": true
+    },
+    {
+      "name": "ARISTA",
+      "type": "vless",
+      "server": "78.159.131.107",
+      "port": 443,
+      "uuid": "10f3650d-32f6-470a-b100-e29471cf3380",
+      "tls": false,
+      "network": "tcp",
+      "servername": "pingless.com",
+      "alpn": [],
+      "skip-cert-verify": false,
+      "udp": true
+    },
+    {
+      "name": "ARISTA",
+      "type": "vless",
+      "server": "104.18.26.90",
+      "port": 443,
+      "uuid": "e6236ebc-7334-4bed-977f-0c20bcdfcc00",
+      "tls": true,
+      "network": "ws",
+      "servername": "barayeiranmahsang.ghormehsabzi.dpdns.org",
+      "alpn": [],
+      "skip-cert-verify": false,
+      "udp": true
+    },
+    {
+      "name": "ARISTA",
+      "type": "vless",
+      "server": "www.speedtest.net",
+      "port": 2096,
+      "uuid": "2d1d4287-2ac1-4a71-bd5a-d6c6371f0627",
+      "tls": true,
+      "network": "ws",
+      "servername": "www.dollardoon.com",
+      "alpn": [],
+      "skip-cert-verify": false,
+      "udp": true
+    }
+  ]
+}
